@@ -1,4 +1,4 @@
-#this code is for catagorizing song into sad song or party song using its tempo and beats per seconde
+#this code is for catagorizing song into sad song or party song using its tempo and beats as per training dataset provoded by tainner code
 import math
 s1=0
 s2=0
