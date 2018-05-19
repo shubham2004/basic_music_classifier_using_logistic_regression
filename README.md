@@ -1,18 +1,2 @@
 "# music-basic_classifier_using_logistic_regression" 
-"# music-basic_classifier_using_logistic_regression" 
-"# music-basic_classifier_using_logistic_regression" 
-"# music-basic_classifier_using_logistic_regression" 
-"# music-basic_classifier_using_logistic_regression" 
-"# music-basic_classifier_using_logistic_regression" 
-# music-basic_classifier_using_logistic_regression
-# multi_song_classifier
-"# multi_song_classifier" 
-# multi_song_classifier
-# multi_song_classifier
-# multi_song_classifier
-# multi_song_classifier
-# multi_song_classifier
-# multi_song_classifier
-"# sentiment_analysis" 
-# sentiment_analysis
-#sentiment_analysis
+this is a basic music classifier which uses simple support vector machine techniqe to make a boundary of different genre of music and catagorize the given music as one of the given cataagory. this is just a sample code for betterresult please add more training data. this process may be costly for very big data set but veryaccurate to make a decision boundary and classification.
