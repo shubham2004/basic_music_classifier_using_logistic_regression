@@ -1,2 +1,3 @@
 # basic_music_classifier_using_logistic_regression
-this is a basic music classifier which uses simple logistic regression to classify a song into sad song or party song this can be easily extrended.this type of logistic regression technique doesnot give very good result with many features as due to lack of precise decision boundary making but for less features it gives much high accurate results and can be improve with increase in training data set and cross validation set
+Have you ever face problem of finding songs according to your current mood. This machine learning based Classifier will help you to segment your songs for you.
+this is a basic music classifier which uses simple logistic regression to classify a song into sad song or party song this can be easily extrended. We usually underestimate the power of simple things. 
